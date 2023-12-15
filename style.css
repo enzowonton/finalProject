@@ -1,0 +1,25 @@
+body {
+  text-align: center;
+  background-color: #c7dcff;
+}
+h1{
+  font-family: Helvetica;
+}
+button {
+  background-color: #008080;
+  color: white;
+  padding: 10px 20px;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+  font-size: 16px;
+}
+button:hover {
+  background-color: #005555;
+}
+img{
+  width: 400px;
+  height: 400px;
+  display: block;
+  margin: 20px auto;
+}
